@@ -5,7 +5,7 @@ cohort_id: cohort2
 display_name: "Dijkstrians"
 start_date: "22nd Jan 2026"
 end_date: ""
-status: "Upcoming"
+status: "Active" #"Upcoming"
 dashboard_available: true
 color: "059669"
 schedule:
@@ -17,7 +17,7 @@ schedule:
 ## 📋 General Information
 
 Welcome to **Cohort 2**!    
-This cohort will start on 22nd January 2026.
+This cohort focuses on building full-stack applications using the MERN stack.
 
 ### Important Notes:
 - Stand-ups will be scheduled as per the timetable
