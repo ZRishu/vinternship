@@ -1,7 +1,7 @@
 ---
 title: "My Vinternship Learning Journey"
 author: Shaik Shahida
-vinternship_id:WIN251088
+vinternship_id: WIN251088
 youtube_url: "https://youtube.com/shorts/zVaAQRFfs-o?si=slF-d0EmhHMWIDDj"
 ---
 
